@@ -1,0 +1,1 @@
+ERROR_LANGUAGE determind language of errors of fields/validators(in django forms/models and rest_framework). when is pr language is persian else is english original messages.
